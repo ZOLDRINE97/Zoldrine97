@@ -1,4 +1,4 @@
-# Hi there!
+# 👋 Hi there!
 
 **Electronics and Telecommunications Engineering Student | Embedded Systems Enthusiast | Software Developer**
 
@@ -18,7 +18,11 @@ I am a 19-year-old student currently pursuing a degree in Electronics, Telecommu
 
 ---
 
-## Skills
+## ✅Skills
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<br />
 
 - **Programming Languages**: Proficient in C++, C, and Python; currently expanding my knowledge in Assembly language.
 
@@ -30,7 +34,7 @@ I am a 19-year-old student currently pursuing a degree in Electronics, Telecommu
 
 ---
 
-## Projects
+## 📁Projects
 
 - **CanSat Development**: Led the programming efforts for a CanSat project, focusing on data acquisition and transmission systems.
 
@@ -40,7 +44,7 @@ I am a 19-year-old student currently pursuing a degree in Electronics, Telecommu
 
 ---
 
-## Education
+## 📕Education
 
 - **Instituto Superior de Engenharia de Lisboa (ISEL)**: Pursuing a Bachelor's degree in Electronics, Telecommunications, and Computer Engineering.
 
