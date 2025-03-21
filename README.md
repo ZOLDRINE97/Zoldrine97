@@ -3,6 +3,24 @@
 **Electronics and Telecommunications Engineering Student | Embedded Systems Enthusiast | Software Developer**
 
 ---
+### 🧰 Languages and Skills
+
+- **Programming Languages**: Proficient in C++, C, and Python; currently expanding my knowledge in Assembly language.
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373445/assembly.svg" />
+
+<br />
+
+- **🤖 Electronics and Robotics**: Experienced in designing and implementing electronic circuits and robotic systems.
+
+- **🪛 Technical Support**: Skilled in custom PC assembly and maintenance, including troubleshooting and repairs.
+
+- **📹 Video Editing**: Adept at video editing, with experience in creating engaging content.
+
+---
 
 ## About Me
 
@@ -18,22 +36,6 @@ I am a 19-year-old student currently pursuing a degree in Electronics, Telecommu
 
 ---
 
-## ✅Skills
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373445/assembly.svg" />
-<br />
-
-- **Programming Languages**: Proficient in C++, C, and Python; currently expanding my knowledge in Assembly language.
-
-- **Electronics and Robotics**: Experienced in designing and implementing electronic circuits and robotic systems.
-
-- **Technical Support**: Skilled in custom PC assembly and maintenance, including troubleshooting and repairs.
-
-- **Video Editing**: Adept at video editing, with experience in creating engaging content.
-
----
 
 ## 📁Projects
 
